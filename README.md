@@ -45,13 +45,14 @@ Copy your API key from your account dashboard.
 
 Open the weather.ini file and update the Base URL with your API key:
 
-https://api.openweathermap.org/data/2.5/weather?lat=<latitude>&lon=<longitude>&appid=<api key>&units=metric
+[https://api.openweathermap.org/data/2.5/weather?lat={latitude}&lon={longitude}&appid={api_key}&units=metric]
+
 Find the latitude and longitude of your area (you can use Google Maps or any online tool).
 
 Replace <latitude> and <longitude> in the URL with your location’s coordinates.
 
 Example:
-https://api.openweathermap.org/data/2.5/weather?lat=28.7041&lon=77.1025
+[https://api.openweathermap.org/data/2.5/weather?lat={latitude}&lon={longitude}&appid={api_key}&units=metric]
 
 📸 Preview
 
