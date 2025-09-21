@@ -52,7 +52,7 @@ To make the weather skin work for your location, follow these steps:
 6. Replace <latitude> and <longitude> in the URL with your location’s coordinates.
 
 Example:
-[https://api.openweathermap.org/data/2.5/weather?lat={latitude}&lon={longitude}&appid={api_key}&units=metric]
+[https://api.openweathermap.org/data/2.5/weather?lat=55&lon=55&appid=aa4564dfgvb66h3421cfa7ad6c45dffsghdffg&units=metric]
 
 📸 Preview
 
