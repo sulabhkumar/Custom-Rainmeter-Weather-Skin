@@ -2,6 +2,7 @@
 This repository contains a custom Rainmeter skin for displaying weather information in a clean and dynamic way.
 
 ✨ Features
+
 🌡️ Displays temperature in °C
 
 🌤️ Shows a dynamic weather icon that updates based on current conditions
