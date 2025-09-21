@@ -73,7 +73,8 @@ ImageName = "C:\Users\administrator\Desktop\Rainmeter\Skins\Mond\Weather\@Resour
 
 📸 Preview
 
-<img width="194" height="51" alt="image" src="https://github.com/user-attachments/assets/961e708f-f5a4-47e3-aacd-264bc67cb961" />
+<img width="169" height="50" alt="image" src="https://github.com/user-attachments/assets/8be20df9-ef3a-4e67-8140-30ed9a0b1661" />
+
 
 
 
