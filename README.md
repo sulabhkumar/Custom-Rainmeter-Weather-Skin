@@ -15,19 +15,19 @@ This repository contains a custom Rainmeter skin for displaying weather informat
 
 
 📥 Installation Guide
-Install Rainmeter Download and install Rainmeter.
+1. Install Rainmeter Download and install Rainmeter.
 
-Install a Base Skin Install any Rainmeter skin of your choice (e.g., Mond, Enigma, Inside Dream, etc.).
+2. Install a Base Skin Install any Rainmeter skin of your choice (e.g., Mond, Enigma, Inside Dream, etc.).
 
-Replace Weather Skin
+3. Replace Weather Skin
 
-Navigate to the skin’s weather folder.
+4. Navigate to the skin’s weather folder.
 
-Replace its weather.ini file with the weather.ini file from this repository.
+5. Replace its weather.ini file with the weather.ini file from this repository.
 
-Add Resources Copy the @Resources folder from this repository into the same directory where weather.ini is located.
+6. Add Resources Copy the @Resources folder from this repository into the same directory where weather.ini is located.
 
-Refresh the Skin Right-click the Rainmeter tray icon → Refresh all (or refresh the specific skin).
+7. Refresh the Skin Right-click the Rainmeter tray icon → Refresh all (or refresh the specific skin).
 
 
 
@@ -37,19 +37,19 @@ Refresh the Skin Right-click the Rainmeter tray icon → Refresh all (or refresh
 🌍 Configure Location & API Key
 To make the weather skin work for your location, follow these steps:
 
-Open OpenWeatherMap in your browser.
+1. Open OpenWeatherMap in your browser.
 
-Create a free account and log in.
+2. Create a free account and log in.
 
-Copy your API key from your account dashboard.
+3. Copy your API key from your account dashboard.
 
-Open the weather.ini file and update the Base URL with your API key:
+4. Open the weather.ini file and update the Base URL with your API key:
 
 [https://api.openweathermap.org/data/2.5/weather?lat={latitude}&lon={longitude}&appid={api_key}&units=metric]
 
-Find the latitude and longitude of your area (you can use Google Maps or any online tool).
+5. Find the latitude and longitude of your area (you can use Google Maps or any online tool).
 
-Replace <latitude> and <longitude> in the URL with your location’s coordinates.
+6. Replace <latitude> and <longitude> in the URL with your location’s coordinates.
 
 Example:
 [https://api.openweathermap.org/data/2.5/weather?lat={latitude}&lon={longitude}&appid={api_key}&units=metric]
