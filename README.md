@@ -68,7 +68,7 @@ Example:
 
 [MeterIcon]
 
-ImageName = "C:\Users\administrator\Desktop\Rainmeter\Skins\Mond\Weather\@Resources\Icons\[MeasureIconCode]@2x.png"
+ImageName = "C:\Users\administrator\Desktop\Rainmeter\Skins\Mond\Weather\@Resources\Icons\\[MeasureIconCode]@2x.png"
 
 📸 Preview
 
