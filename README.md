@@ -54,6 +54,22 @@ To make the weather skin work for your location, follow these steps:
 Example:
 [https://api.openweathermap.org/data/2.5/weather?lat=55&lon=55&appid=aa4564dfgvb66h3421cfa7ad6c45dffsghdffg&units=metric]
 
+
+🖼️ Configure Weather Icons
+To ensure the correct weather icons display:
+
+1. Open the weather.ini file.
+
+2. Locate the [MeterIcon] block.
+
+3. Update the ImageName property to include the full path of your Icons folder before the [MeasureIconCode]@2x.png.
+
+Example:
+
+[MeterIcon]
+
+ImageName = "C:\Users\administrator\Desktop\Rainmeter\Skins\Mond\Weather\@Resources\Icons\[MeasureIconCode]@2x.png"
+
 📸 Preview
 
 <img width="194" height="51" alt="image" src="https://github.com/user-attachments/assets/961e708f-f5a4-47e3-aacd-264bc67cb961" />
